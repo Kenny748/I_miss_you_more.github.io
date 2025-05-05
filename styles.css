@@ -18,7 +18,7 @@ div {
     width: 100%;
     display: flex;
     background-image: url(IMG_20250504_204656.jpg);
-    background-size: contain;
+    background-size: cover;
     background-attachment: fixed;
 }
 

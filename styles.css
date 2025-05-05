@@ -1,0 +1,31 @@
+.lovers-quarrel-regular {
+    font-family: "Lovers Quarrel", cursive;
+    font-weight: 400;
+    font-style: normal;
+}  
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+}
+
+div {
+    width: 100%;
+    display: flex;
+    background-image: url(IMG_20250504_204656.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    font-size: 45px;
+    font-family: "Lovers Quarrel";
+    padding-left: 4px;
+    color: #c0c0c0;
+    background: rgba(0, 0, 0, 0.55);
+}
